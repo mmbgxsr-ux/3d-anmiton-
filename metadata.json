@@ -1,0 +1,8 @@
+{
+  "name": "مغامرة زيزو والروبوت الذكي | 3D Animation Video",
+  "description": "فيديو كرتوني ثلاثي الأبعاد 30 ثانية بجودة سينمائية واستوديو تحريك تفاعلي: ولد مصري يشعر بالملل من المذاكرة وظهور روبوت أزرق كوميدي مع أصوات وحوار مصري متزامن.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
